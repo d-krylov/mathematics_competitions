@@ -70,3 +70,5 @@
      \renewcommand{\qedsymbol}{\oldqedsymbol}}
 
 \DeclareMathOperator{\lcm}{lcm}
+
+\newcommand{\bigp}[1]{\left(#1\right)}
