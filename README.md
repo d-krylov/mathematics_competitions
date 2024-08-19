@@ -6,3 +6,4 @@
 4. Math Problems And Puzzles
 5. Problems.ru
 6. Saint Petersburg
+7. Прасолов - Задачи по планиметрии
