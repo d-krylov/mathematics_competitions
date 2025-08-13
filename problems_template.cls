@@ -44,4 +44,5 @@
   {\renewcommand{\qedsymbol}{$\triangle$}
    \begin{proof}[\bfseries\upshape\large Решение]}
   {\end{proof}}
-  
+
+\DeclareMathOperator{\lcm}{lcm}
